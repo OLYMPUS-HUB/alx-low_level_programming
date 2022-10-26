@@ -4,12 +4,12 @@
  * swap_int - swaps the values of the intergers
  * @a: int a
  * @b: int b
+ * Return: void
  */
 void swap_int(int *a, int *b)
 {
-	int q;
+	int p = *a;
 
-	q = *a;
 	*a = *b;
-	*b = q;
+	*b = p;
 }
