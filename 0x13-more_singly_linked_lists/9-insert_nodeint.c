@@ -1,21 +1,3 @@
-
-samibirhanu1
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-More
-alx-low_level_programming/0x13-more_singly_linked_lists/9-insert_nodeint.c
-@samibirhanu1
-samibirhanu1 electri city
- History
- 1 contributor
-45 lines (37 sloc)  960 Bytes
 #include "lists.h"
 
 /**
